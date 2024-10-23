@@ -1,0 +1,23 @@
+{
+  "RAVI": {
+    "voiceNote": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/hiand%20hello%20.mp3",
+    "image": {
+      "url": "https://files.catbox.moe/wt7xx0.jpg",
+      "caption": "*HELLO I AM RAVI*"
+    }
+  },
+  "how are you": {
+    "voiceNote": "https://example.com/path/to/how_are_you_voice.mp3",
+    "image": {
+      "url": "https://example.com/path/to/how_are_you_image.jpg",
+      "caption": "This image represents a friendly inquiry."
+    }
+  },
+  "goodbye": {
+    "voiceNote": "https://example.com/path/to/goodbye_voice.mp3",
+    "image": {
+      "url": "https://example.com/path/to/goodbye_image.jpg",
+      "caption": "Farewell!"
+    }
+  }
+}
